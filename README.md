@@ -6,11 +6,11 @@ This piece of code converts a small image into an ascii art given the dimensions
 It is recommended that you keep the image width below 180 pixels and use something like a text editor to view the art like <b>notepad</b> or such.
 Use a white background on your image for a better result.
 
-<img src = "input_img.jpg" src-dark = "input_img.jpg">
+<img src = "input2.jpg">
 
 <br>
 
-<img src = "output_img.JPG" src-dark = "output_img.JPG">
+<img src = "output_img.PNG">
 
 ### Modules
 
